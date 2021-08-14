@@ -9,7 +9,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
     </tr> 
     <tr>
-        <td>![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat</td>
+        <td><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
     </tr>
 </table>
 </center>
