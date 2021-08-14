@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=buefy" />
 <!--
 **k1k0borba/k1k0borba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
