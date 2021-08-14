@@ -15,7 +15,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
     </tr> 
     <tr>
-        <td><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
+        <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
     </tr>
 </table>
 </center>
