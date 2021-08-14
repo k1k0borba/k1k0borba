@@ -33,6 +33,7 @@ Gosto de praticar corridas de Rua 🏃, me segue no <a href="https://www.strava.
 ---
 
 <a href="https://www.linkedin.com/in/rodrigo-gomes-borba/">Linkedin</a>
+
 [Email](mailto:k1k0borba@gmail.com)  
 
 ---
