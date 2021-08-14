@@ -19,14 +19,22 @@
     </tr>
 </table>
 </center>
+### Olá! Boas vindas
+
 ---
+
 Durante muitos anos fui líder de equipe, Analista de Infraesturura, Analista de Redes , Supervisor de Redes ...etc. Mas agora quero ser Desenvolvedor 😄.
 Ja faz um tempo que desenvolvo em Django Rest Framework, além de Vue.js. Sinceramente Prefiro Backend, mas me aventuro no Front também .
+
 ---
-Gosto de praticar corridas de Rua, me segue no <a href="https://www.strava.com/athletes/76209452">strava</a>
+
+Gosto de praticar corridas de Rua 🏃, me segue no <a href="https://www.strava.com/athletes/76209452">strava</a>
+
 ---
+
 <a href="https://www.linkedin.com/in/rodrigo-gomes-borba/">Linkedin</a>
 [Email](mailto:k1k0borba@gmail.com)  
+
 ---
 <!--
 **k1k0borba/k1k0borba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
