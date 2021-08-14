@@ -1,5 +1,4 @@
-
-(![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Capa_github.png)  
+  
 <center>
 <table>
     <tr>
