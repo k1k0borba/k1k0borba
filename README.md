@@ -1,7 +1,7 @@
     
   
 <center>
-<table>
+<table border=0>
   <tr>
     <td colspan=2 align=center>
       <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/github_k1k0borba2.png" />
