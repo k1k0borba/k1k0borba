@@ -13,6 +13,17 @@
     </tr> 
     <tr>
         <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
+        
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/>
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/>
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/>
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/> 
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/> 
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/>
+            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/>
     </tr>
 </table>
 </center>
@@ -34,17 +45,4 @@ Gosto de praticar corridas de Rua 🏃, me segue no <a href="https://www.strava.
 [Email](mailto:k1k0borba@gmail.com)  
 
 ---
-<!--
-**k1k0borba/k1k0borba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
