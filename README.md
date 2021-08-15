@@ -13,7 +13,6 @@
     </tr> 
     <tr>
         <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
-        
     </tr>
     <tr>
         <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/></td>
