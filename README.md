@@ -22,7 +22,9 @@
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/>
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/>
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/>
-        <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/></td>
+        <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/>
+        <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/jupyter_logo.png"/>
+        <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/github.png"/></td>
     </tr>
 </table>
 </center>
