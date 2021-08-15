@@ -3,25 +3,25 @@
 <center>
 <table style="border:0px solid black;">
   <tr>
-    <td colspan=2 align=center>
+    <td colspan=7 align=center>
       <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/Github3_perfil.png" />
     </td>
   </tr>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
+        <td colspan=4><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=dark" /></td>
+        <td colspan=3><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
     </tr> 
     <tr>
-        <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
+        <td colspan=7><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
     </tr>
     <tr>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/></td>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/></td>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/></td>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/></td>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/></td> 
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/></td>
-        <td><img width="64px" height="64px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/></td> 
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/></td>
+        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/></td>
     </tr>
 </table>
 </center>
