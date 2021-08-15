@@ -16,15 +16,13 @@
         
     </tr>
     <tr>
-        <td>
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/>
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/>
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/>
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/> 
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/> 
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/>
-            <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/>
-        </td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/></td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/></td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/></td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/></td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/></td> 
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/></td>
+        <td><img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/></td>
     </tr>
 </table>
 </center>
