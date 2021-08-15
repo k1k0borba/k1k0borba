@@ -24,6 +24,7 @@
             <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/css.png"/> 
             <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/html5.png"/>
             <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/javascript.png"/>
+        </td>
     </tr>
 </table>
 </center>
