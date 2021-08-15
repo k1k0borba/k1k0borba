@@ -3,19 +3,20 @@
 <center>
 <table style="border:0px solid black;">
   <tr>
-    <td colspan=7 align=center>
+    <td colspan=2 align=center>
       <img src="https://github.com/k1k0borba/k1k0borba/blob/master/images/Github3_perfil.png" />
     </td>
   </tr>
     <tr>
-        <td colspan=4><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=dark" /></td>
-        <td colspan=3><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
+        <td colspan=><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=dark" /></td>
+        <td colspan=><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&theme=highcontrast&show_icons=true"/></td>
     </tr> 
     <tr>
-        <td colspan=7><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
+        <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
     </tr>
     <tr>
-        <td><img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/>
+        <td>
+        <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/python.png"/>
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/django.png"/>
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/vue.png"/>
         <img width="32px" height="32px" src="https://github.com/k1k0borba/k1k0borba/blob/master/images/bootstrap.png"/>
