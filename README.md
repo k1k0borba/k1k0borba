@@ -32,10 +32,10 @@
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k1k0borba&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k1k0borba&repo=avp" />
 </a>
 líder de equipe, Analista de Infraesturura, Analista de Redes , Supervisor de Redes ...etc. Mas agora quero ser Desenvolvedor 😄.
 Ja faz um tempo que desenvolvo em Django Rest Framework, além de Vue.js. Sinceramente Prefiro Backend, mas me aventuro no Front também .
