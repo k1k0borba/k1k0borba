@@ -8,9 +8,8 @@
     </td>
   </tr>
     <tr>
-        <td colspan=><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=html&layout=compact&theme=dark" /></td>
-        <td colspan=><img height="180em" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</td>
+        <td colspan=><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&layout=compact&langs_count=7&theme=dracula" /></td>
+        <td colspan=><img height="180em" src="https://github-readme-stats.vercel.app/api?username=k1k0borba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></td>
     </tr> 
     <tr>
         <td colspan=2><img align="left" src="https://komarev.com/ghpvc/?username=k1k0borba&color=blue&style=flat" /></td>
