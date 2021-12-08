@@ -31,7 +31,7 @@
 ### Olá! Boas vindas
 
 ---
-
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 Durante muitos anos fui líder de equipe, Analista de Infraesturura, Analista de Redes , Supervisor de Redes ...etc. Mas agora quero ser Desenvolvedor 😄.
 Ja faz um tempo que desenvolvo em Django Rest Framework, além de Vue.js. Sinceramente Prefiro Backend, mas me aventuro no Front também .
 
