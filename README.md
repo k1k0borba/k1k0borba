@@ -45,6 +45,4 @@ Gosto de praticar corridas de Rua 🏃, me segue no <a href="https://www.strava.
 [Email](mailto:k1k0borba@gmail.com)  
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1k0borba&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
