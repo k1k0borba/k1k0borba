@@ -41,7 +41,7 @@ Gosto de praticar corridas de Rua 🏃, me segue no <a href="https://www.strava.
 ---
 
 <a href="https://www.linkedin.com/in/rodrigo-gomes-borba/">Linkedin</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [Email](mailto:k1k0borba@gmail.com)  
 
 ---
